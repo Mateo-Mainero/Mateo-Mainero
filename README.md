@@ -69,7 +69,7 @@ Además, soy **creador de páginas web profesionales**, adaptadas a las necesida
 
 ## 🐍 Snake Animation
 
-![snake gif](https://github.com/TU-USUARIO/TU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mateo-Mainero/Mateo-Mainero/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
